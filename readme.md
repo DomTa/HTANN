@@ -12,3 +12,10 @@ Les formats d'exports sont :
 Le fichier DataSource.json est dans le fichier "application.maspp" dans le répertoire \Microsoft.PowerApps\apps\'numéro de l'application'\.
 
 Pour l'extraire, il faut renommer le fichier "application"-document.msapp en "application"-docment.zip", iIl est situé dans le répertoire : References de ce fichier 
+
+Détail des fichiers  :
+- [Anonymisation](./docs/anonymisation.md)
+- [Construction de l'architecture](./docs/architecture.md)
+
+## Auteur :
+- DomTa
